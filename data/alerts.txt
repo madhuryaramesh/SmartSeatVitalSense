@@ -1,0 +1,8 @@
+D001,2026-07-15,Poor Posture,Medium
+D001,2026-07-15,Low Sleep,High
+D001,2026-07-15,High Stress,High
+D001,2026-07-15,High Heart Rate,High
+D001,2026-07-15,Driver Fatigue,High
+D002,2026-07-14,Poor Posture,Medium
+D002,2026-07-14,Low Sleep,High
+D002,2026-07-14,Driver Fatigue,High
